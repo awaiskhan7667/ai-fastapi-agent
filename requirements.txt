@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai
+pydantic
+pydantic-settings
+sqlalchemy
+python-dotenv
+faiss-cpu
+sentence-transformers
+pypdf
+langgraph
+langchain-openai
+langchain-core
